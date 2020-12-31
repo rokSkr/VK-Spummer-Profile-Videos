@@ -1,8 +1,8 @@
 # VK-Spummer-Profile-Videos
-# Commands
+# ⌨Commands
 
-#1. $bash InstallT.sh
+📂#1. $bash InstallT.sh
 
-#2. $python main.py
+📲#2. $python main.py
 
-#3. $1
+📝#3. $1
